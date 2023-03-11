@@ -20,3 +20,9 @@ like this:
 
 I didn't want such an interesting material to be lost in the depths of the web,
 so I decided to put it on GitHub.
+
+Bartosz Wójcik
+
+* Visit my site at — https://www.pelock.com
+* Twitter — https://twitter.com/PELock
+* GitHub — https://github.com/PELock
